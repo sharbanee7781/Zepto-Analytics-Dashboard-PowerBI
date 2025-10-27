@@ -112,3 +112,9 @@ The dataset simulates **Zepto’s business operations**, including:
 
 ## 📊 Sales Dashboard
 ![Sales Dashboard](https://github.com/sharbanee7781/Zepto-Analytics-Dashboard-PowerBI/blob/main/Sales.png?raw=true)
+
+## 👥 Customer Dashboard
+![Customer Dashboard](https://github.com/sharbanee7781/Zepto-Analytics-Dashboard-PowerBI/blob/main/Customer.png?raw=true)
+
+## 💳 Transaction Dashboard
+![Transaction Dashboard](https://github.com/sharbanee7781/Zepto-Analytics-Dashboard-PowerBI/blob/main/Trans.png?raw=true)
