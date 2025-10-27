@@ -110,4 +110,5 @@ The dataset simulates **Zepto’s business operations**, including:
 
 ---
 
-## 📂 Repository Structure  
+## 📊 Sales Dashboard
+![Sales Dashboard](https://github.com/sharbanee7781/Zepto-Analytics-Dashboard-PowerBI/blob/main/Sales.png?raw=true)
